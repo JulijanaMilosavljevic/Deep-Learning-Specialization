@@ -56,4 +56,4 @@ This repository contains my (student) implementations and notes based on that co
 ---
 
 ## 📬 Contact
-If you have questions or suggestions, open an issue or contact me at **julijanamilosavljevic@gmai.com** (replace with your email or GitHub profile).
+If you have questions or suggestions, open an issue or contact me at **julijanamilosavljevic@gmail.com**.
